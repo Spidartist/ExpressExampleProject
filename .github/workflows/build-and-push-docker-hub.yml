@@ -1,5 +1,5 @@
 name: Build, Push, Ssh, Pull, Down, Up
-
+run-name: ${{ github.actor }} is learning CICD
 on:
   push:
     branches:
